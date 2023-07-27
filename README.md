@@ -23,7 +23,7 @@
 ## Technologies Used
 - Spring framework version-5.3.28
 - Maven version-3.8.7
-- HTLM 5
+- HTML 5
 - SCSS version 1.63.6
 - Parceljs version 2.9.3
 - Bootstrap version 5.3.0
